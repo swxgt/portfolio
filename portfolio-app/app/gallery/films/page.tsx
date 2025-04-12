@@ -153,7 +153,7 @@ export default function FilmsGalleryPage() {
             <p className="text-muted-foreground">
               These AI-generated films were created using a two-stage process. First, key frames were generated
               using MidJourney with specialized prompts to ensure stylistic consistency. Then, these frames were
-              animated using Runway ML's Gen-2 and motion brush tools to create smooth transitions and camera movements.
+              animated using Runway MLs Gen-2 and motion brush tools to create smooth transitions and camera movements.
               The audio was designed to complement the visual aesthetic of each film.
             </p>
           </div>
