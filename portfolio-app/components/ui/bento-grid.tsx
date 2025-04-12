@@ -2,12 +2,8 @@
 
 import { cn } from "@/lib/utils";
 import {
-    CheckCircle,
-    Clock,
-    Star,
-    TrendingUp,
+   
     Video,
-    Globe,
     Images,
 } from "lucide-react";
 import Link from "next/link";
