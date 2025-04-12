@@ -14,7 +14,7 @@ export default function TextArtGalleryPage() {
       <div className="container relative z-10 mx-auto px-4">
         <Link 
           href="/projects" 
-          className="absolute left-4 top-4 md:left-8 md:top-8 p-2 rounded-full bg-black/10 dark:bg-white/10 hover:bg-black/20 dark:hover:bg-white/20 transition-colors"
+          className="absolute left-4 top-4 md:left-24 md:top-0 p-2 rounded-full bg-black/10 dark:bg-white/10 hover:bg-black/20 dark:hover:bg-white/20 transition-colors"
         >
           <ArrowLeft className="h-5 w-5" />
           <span className="sr-only">Back to projects</span>
