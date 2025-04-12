@@ -1,11 +1,7 @@
 import { BentoGrid, type BentoItem } from "@/components/ui/bento-grid"
 import {
-    CheckCircle,
-    Clock,
-    Star,
-    TrendingUp,
+    
     Video,
-    Globe,
     Images,
 } from "lucide-react";
 
